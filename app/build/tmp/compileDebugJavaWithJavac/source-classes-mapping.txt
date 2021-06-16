@@ -1,0 +1,15 @@
+com/example/kisahnabii/adapter/MainAdapter.java
+ com.example.kisahnabii.adapter.MainAdapter
+ com.example.kisahnabii.adapter.MainAdapter$1
+ com.example.kisahnabii.adapter.MainAdapter$onSelectData
+com/example/kisahnabi/BuildConfig.java
+ com.example.kisahnabi.BuildConfig
+com/example/kisahnabii/model/ModelMain.java
+ com.example.kisahnabii.model.ModelMain
+com/example/kisahnabii/activities/DetailActivity.java
+ com.example.kisahnabii.activities.DetailActivity
+ com.example.kisahnabii.activities.DetailActivity$1
+com/example/kisahnabii/holder/MainHolder.java
+ com.example.kisahnabii.holder.MainHolder
+com/example/kisahnabii/activities/MainActivity.java
+ com.example.kisahnabii.activities.MainActivity
